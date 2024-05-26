@@ -28,7 +28,3 @@ A web application to search and explore movies by title or genre using The Movie
 ## Deployment
 Deployed on GitHub Pages at: [https://<your-username>.github.io/<repository-name>](https://<your-username>.github.io/<repository-name>)
 
-## Future Improvements
-- Add user authentication
-- Allow users to save favorite movies
-- Improve UI/UX
