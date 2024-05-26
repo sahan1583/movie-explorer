@@ -26,5 +26,12 @@ A web application to search and explore movies by title or genre using The Movie
 3. Open `index.html` in your web browser to view the app.
 
 ## Deployment
-Deployed on GitHub Pages at: [https://<your-username>.github.io/<repository-name>](https://<your-username>.github.io/<repository-name>)
+The project is deployed on GitHub Pages and can be accessed at: [https://sahan1583.github.io/movie-explorer/](https://sahan1583.github.io/movie-explorer/)
+
+## How to Use
+1. **Search for Movies**: Use the search bar at the top to find movies by title.
+2. **Filter by Genre**: Click on the genre tags to filter movies. Click again to remove the filter.
+3. **View Movie Details**: Click on a movie to see more details in an overlay.
+4. **Navigate Pages**: Use the "Previous Page" and "Next Page" buttons to navigate through the list of movies.
+
 
