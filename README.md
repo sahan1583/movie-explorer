@@ -7,12 +7,14 @@ A web application to search and explore movies by title or genre using The Movie
 - Search for movies by title or genre
 - View movie details including title, year, synopsis, and poster
 - Pagination and genre filtering
+- Watch related YouTube videos in a carousel
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 - TMDB API
+- YouTube API
 
 ## Setup Instructions
 1. Clone the repository:
@@ -33,5 +35,6 @@ The project is deployed on GitHub Pages and can be accessed at: [https://sahan15
 2. **Filter by Genre**: Click on the genre tags to filter movies. Click again to remove the filter.
 3. **View Movie Details**: Click on a movie to see more details in an overlay.
 4. **Navigate Pages**: Use the "Previous Page" and "Next Page" buttons to navigate through the list of movies.
+5. **Youtube Video Carousel**: Watch related YouTube videos in a carousel
 
 
