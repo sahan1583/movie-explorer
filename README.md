@@ -35,6 +35,6 @@ The project is deployed on GitHub Pages and can be accessed at: [https://sahan15
 2. **Filter by Genre**: Click on the genre tags to filter movies. Click again to remove the filter.
 3. **View Movie Details**: Click on a movie to see more details in an overlay.
 4. **Navigate Pages**: Use the "Previous Page" and "Next Page" buttons to navigate through the list of movies.
-5. **Youtube Video Carousel**: Watch related YouTube videos in a carousel
+5. **Youtube Video Carousel**: Click "Know more" on the movie poster to watch related YouTube videos in a carousel
 
 
